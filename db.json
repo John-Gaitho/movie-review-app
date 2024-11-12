@@ -1,0 +1,104 @@
+{
+    "movies": [
+      {
+        "id": "1",
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men form a deep bond, finding hope and redemption in the most unlikely of places.",
+        "genre": "Drama",
+        "releaseYear": 1994,
+        "rating": 9.3,
+        "image": "https://example.com/images/shawshank.jpg"
+      },
+      {
+        "id": "2",
+        "title": "The Godfather",
+        "description": "The story of an organized crime dynasty's aging patriarch who transfers control of his clandestine empire to his reluctant son.",
+        "genre": "Crime, Drama",
+        "releaseYear": 1972,
+        "rating": 9.2,
+        "image": "https://example.com/images/godfather.jpg"
+      },
+      {
+        "id": "3",
+        "title": "The Dark Knight",
+        "description": "Batman must face the Joker, a criminal mastermind who wants to plunge Gotham City into anarchy.",
+        "genre": "Action, Crime, Drama",
+        "releaseYear": 2008,
+        "rating": 9,
+        "image": "https://example.com/images/dark_knight.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Forrest Gump",
+        "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life story.",
+        "genre": "Drama, Romance",
+        "releaseYear": 1994,
+        "rating": 8.8,
+        "image": "https://example.com/images/forrest_gump.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal secrets from their subconscious is given the task of planting an idea into the mind of a CEO.",
+        "genre": "Action, Adventure, Sci-Fi",
+        "releaseYear": 2010,
+        "rating": 8.8,
+        "image": "https://example.com/images/inception.jpg"
+      },
+      {
+        "id": "6",
+        "title": "The Matrix",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "genre": "Action, Sci-Fi",
+        "releaseYear": 1999,
+        "rating": 8.7,
+        "image": "https://example.com/images/matrix.jpg"
+      },
+      {
+        "id": "7",
+        "title": "Pulp Fiction",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "genre": "Crime, Drama",
+        "releaseYear": 1994,
+        "rating": 8.9,
+        "image": "https://example.com/images/pulp_fiction.jpg"
+      },
+      {
+        "id": "8",
+        "title": "The Lord of the Rings: The Return of the King",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw attention away from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "genre": "Action, Adventure, Drama",
+        "releaseYear": 2003,
+        "rating": 8.9,
+        "image": "https://example.com/images/lotr_return_king.jpg"
+      },
+      {
+        "id": "9",
+        "title": "Fight Club",
+        "description": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much, much more.",
+        "genre": "Drama",
+        "releaseYear": 1999,
+        "rating": 8.8,
+        "image": "https://example.com/images/fight_club.jpg"
+      },
+      {
+        "id": "10",
+        "title": "Interstellar",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "releaseYear": 2014,
+        "rating": 8.6,
+        "image": "https://example.com/images/interstellar.jpg"
+      },
+      {
+        "id": "077e",
+        "title": "Ramboo 2",
+        "description": "A thrilling story of courage and survival.",
+        "genre": "Action",
+        "releaseYear": 1985,
+        "rating": 7.1,
+        "image": "https://example.com/images/ramboo_2.jpg"
+      }
+    ]
+  }
+  
