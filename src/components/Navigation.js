@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
 
 const Navigation = () => {
   return (
-    <div>Navigation</div>
-  )
-}
+    <div>
+      <ul>
+        <li>Home</li>
+        <li>Add New Movie</li>
+      </ul>
+    </div>
+  );
+};
 
-export default Navigation
+export default Navigation;
