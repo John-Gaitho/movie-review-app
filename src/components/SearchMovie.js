@@ -2,8 +2,13 @@ import React from 'react'
 
 const SearchMovie = () => {
   return (
-    <div>SearchMovie</div>
+    <div>
+        <input
+        type="text"
+        placeholder="Search movies..."
+      />
+    </div>
   )
 }
 
-export default SearchMovie
+export default SearchMovie;

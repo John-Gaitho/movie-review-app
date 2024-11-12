@@ -1,10 +1,17 @@
 //import logo from './logo.svg';
-import './App.css';
-import AddMovie from './components/AddMovie';
+import "./App.css";
+import Navigation from "./components/Navigation";
+import SearchMovie from "./components/SearchMovie";
 
 function App() {
+  
+
+  
   return (
-    <AddMovie/>
+    <div>
+      <Navigation />
+      <SearchMovie />
+    </div>
   );
 }
 
