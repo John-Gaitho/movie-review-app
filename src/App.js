@@ -5,6 +5,7 @@ import Navigation from "./components/Navigation";
 import SearchMovie from "./components/SearchMovie";
 import MovieList from './components/MovieList';
 import AddMovie from './components/AddMovie';
+import MovieDetail from './components/MovieDetail';
 
 function App() {
   const [movies, setMovies] = useState([]); // to define the movies and setMovies with useState
@@ -38,6 +39,7 @@ function App() {
         <Routes>
         <Route path="/" element={<MovieList movies={filteredMovies} />} />
         <Route path="/add" element={<AddMovie addMovie={addMovie} />} />
+        <Route path="/movie/:id" element={<MovieDetail />} />
 
         </Routes>
 
