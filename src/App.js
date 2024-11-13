@@ -36,7 +36,9 @@ function App() {
         <Navigation />
         <SearchMovie searchQuery={searchQuery} handleSearchChange={handleSearch} /> {/*to add Search Component */}
         <Routes>
-        
+        <Route path="/" element={<MovieList movies={filteredMovies} />} />
+        <Route path="/add" element={<AddMovie addMovie={addMovie} />} />
+
         </Routes>
 
       </div>
