@@ -5,7 +5,7 @@ const Navigation = () => {
     <div>
       <ul>
         <li>Home</li>
-        <li>Add New Movie</li>
+        <li> Movies</li>
       </ul>
     </div>
   );
