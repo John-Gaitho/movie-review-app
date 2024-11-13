@@ -2,7 +2,7 @@ import React from "react";
 
 function MovieList({ movies }) {
   return (
-    <div>
+    <div className="movie-list-container">
       <h1>DISCOVER THE  BEST MOVIES OF ALL TIMES</h1>
       {movies.length === 0 ? (
         <p>No movies found!</p>

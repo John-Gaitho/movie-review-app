@@ -2,57 +2,21 @@
   "movies": [
     {
       "id": "1",
-      "title": "The Shawshank Redemption",
-      "description": "Two imprisoned men form a deep bond, finding hope and redemption in the most unlikely of places.",
+      "title": "The Boy",
+      "description": "An imprisoned young man form a deep bond while in jail, finding hope and redemption in the most unlikely of places.",
       "genre": "Drama",
-      "releaseYear": 1994,
+      "releaseYear": 2023,
       "rating": 9.3,
-      "image": "https://example.com/images/shawshank.jpg"
+      "image": "https://img.freepik.com/free-vector/professional-suspense-movie-poster_742173-3470.jpg?t=st=1731513478~exp=1731517078~hmac=8bf02684f6de8c11cc6074fd3dbae5ac074182a9709f9b4c7f665eb1006c7ac5&w=740"
     },
     {
-      "id": "2",
-      "title": "The Godfather",
-      "description": "The story of an organized crime dynasty's aging patriarch who transfers control of his clandestine empire to his reluctant son.",
-      "genre": "Crime, Drama",
-      "releaseYear": 1972,
-      "rating": 9.2,
-      "image": "https://example.com/images/godfather.jpg"
-    },
-    {
-      "id": "3",
-      "title": "The Dark Knight",
-      "description": "Batman must face the Joker, a criminal mastermind who wants to plunge Gotham City into anarchy.",
-      "genre": "Action, Crime, Drama",
-      "releaseYear": 2008,
-      "rating": 9,
-      "image": "https://example.com/images/dark_knight.jpg"
-    },
-    {
-      "id": "4",
-      "title": "Forrest Gump",
-      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life story.",
-      "genre": "Drama, Romance",
-      "releaseYear": 1994,
-      "rating": 8.8,
-      "image": "https://example.com/images/forrest_gump.jpg"
-    },
-    {
-      "id": "5",
-      "title": "Inception",
-      "description": "A thief who enters the dreams of others to steal secrets from their subconscious is given the task of planting an idea into the mind of a CEO.",
-      "genre": "Action, Adventure, Sci-Fi",
-      "releaseYear": 2010,
-      "rating": 8.8,
-      "image": "https://example.com/images/inception.jpg"
-    },
-    {
-      "id": "6",
-      "title": "The Matrix",
-      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "genre": "Action, Sci-Fi",
-      "releaseYear": 1999,
-      "rating": 8.7,
-      "image": "https://example.com/images/matrix.jpg"
+      "id": "8",
+      "title": "Eternal Soldier",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw attention away from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "genre": "Action, Adventure, Drama",
+      "releaseYear": 2013,
+      "rating": 8.9,
+      "image": "https://img.freepik.com/free-vector/movie-poster-template-design_742173-20776.jpg?t=st=1731518443~exp=1731522043~hmac=c6446dd96e8a66164059da367f5eb26b61d51061646c80c070ae08c921a77e88&w=740"
     },
     {
       "id": "7",
@@ -61,18 +25,57 @@
       "genre": "Crime, Drama",
       "releaseYear": 1994,
       "rating": 8.9,
-      "image": "https://example.com/images/pulp_fiction.jpg"
+      "image": "https://img.freepik.com/free-psd/movie-template-design_23-2151270423.jpg?t=st=1731513329~exp=1731516929~hmac=f8d5c45f6a6ecc5153e366c4998d312dbff009096ec0b78575e93afaa06d1c3a&w=740"
+    },
+    
+    {
+      "id": "2",
+      "title": "Boxing Ring",
+      "description": "The story of an organized crime dynasty's aging patriarch who transfers control of his clandestine empire to his reluctant son.",
+      "genre": "Crime, Drama",
+      "releaseYear": 2024,
+      "rating": 9.2,
+      "image": "https://img.freepik.com/free-psd/boxing-ad-poster-template_23-2148652581.jpg?t=st=1731517950~exp=1731521550~hmac=b58f8a77393426b67afee218183def67ef16da7ea0d6b7a50a2d9eaf64c45f2f&w=740"
     },
     {
-      "id": "8",
-      "title": "The Lord of the Rings: The Return of the King",
-      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw attention away from Frodo and Sam as they approach Mount Doom with the One Ring.",
-      "genre": "Action, Adventure, Drama",
-      "releaseYear": 2003,
-      "rating": 8.9,
-      "image": "https://example.com/images/lotr_return_king.jpg"
+      "id": "3",
+      "title": "Lost Dream",
+      "description": "A story of love, sacrifice and loyalty",
+      "genre": " Drama",
+      "releaseYear": 2000,
+      "rating": 9,
+      "image": "https://img.freepik.com/free-psd/acting-agency-template-poster_23-2148797784.jpg?t=st=1731518118~exp=1731521718~hmac=90da6719be5b79d07b7c34fb9845172a396ccfc16e06cb8876e45d4931f9d344&w=740"
     },
     {
+      "id": "4",
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life story.",
+      "genre": "Drama, Romance",
+      "releaseYear": 1994,
+      "rating": 8.8,
+      "image": "https://resizing.flixster.com/hqcqFfWf1syt2OrGlbW7LDvfj9Y=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15829_v_v13_aa.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Inception",
+      "description": "A thief who enters the dreams of others to steal secrets from their subconscious is given the task of planting an idea into the mind of a CEO.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "releaseYear": 2010,
+      "rating": 8.8,
+      "image": "https://img.freepik.com/premium-psd/vertical-poster-template-juneteeth-with-african-american-man_23-2149406225.jpg?w=740"
+    },
+    {
+      "id": "6",
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "genre": "Action, Sci-Fi",
+      "releaseYear": 1999,
+      "rating": 8.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2HvYGhDPzaJI0SQAo2yUWS_KVvPBCNQCZOQ0dokZVvuhkSg6HBXAQocu66eseaGt9rw&usqp=CAU"
+    },
+    
+    {
+
       "id": "9",
       "title": "Fight Club",
       "description": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much, much more.",
@@ -98,16 +101,7 @@
       "releaseYear": 1985,
       "rating": 7.1,
       "image": "https://example.com/images/ramboo_2.jpg"
-    },
-    {
-      "id": "8fd9",
-      "title": "jay",
-      "description": "good movie"
-    },
-    {
-      "id": "8780",
-      "title": "Boss Baby 1",
-      "description": "fun movie"
     }
+    
   ]
 }
