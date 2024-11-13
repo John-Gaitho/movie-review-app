@@ -1,4 +1,6 @@
+
 import React, { useState } from "react";
+
 
 function AddMovie({ addMovie }) {
   const [title, setTitle] = useState("");

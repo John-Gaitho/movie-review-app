@@ -1,8 +1,10 @@
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import Navigation from "./components/Navigation";
 import SearchMovie from "./components/SearchMovie";
-import AddMovie from "./components/AddMovie";
+import MovieList from './components/MovieList';
+import AddMovie from './components/AddMovie';
 
 function App() {
   const [movies, setMovies] = useState([]); // to define the movies and setMovies with useState
@@ -22,26 +24,23 @@ function App() {
   function handleSearch(event) {
     setSearchQuery(event.target.value);
   }
-  const filteredMovies = movies.filter((movie) =>
+  // Filter movies based on search query
+  const filteredMovies = movies.filter(movie =>
     movie.title.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
   
   return (
-    <div>
-      <Navigation />
-      <SearchMovie searchQuery={searchQuery} handleSearch={handleSearch} /> 
-      <AddMovie addMovie={addMovie} />      
+    <Router>
       <div>
-        {filteredMovies.map(movie => (
-          <div key={movie.id}>
-            <h3>{movie.title}</h3>
-            <p>{movie.description}</p>
+        <Navigation />
+        <SearchMovie searchQuery={searchQuery} handleSearchChange={handleSearch} /> {/*to add Search Component */}
+        <Routes>
+        
+        </Routes>
 
-          </div>
-        ))}
       </div>
-    </div>
+    </Router>
   );
 }
 
