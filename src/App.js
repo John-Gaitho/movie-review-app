@@ -12,7 +12,7 @@ function App() {
   const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:5000/movies")
+    fetch("https://json-server-movie-review-app.onrender.com")
       .then((response) => response.json())
       .then((data) => setMovies(data));
   }, []); // squire blackets to run only one time when mounted
@@ -32,7 +32,7 @@ function App() {
   );
 
   const deleteMovie = (id) => {
-    fetch(`http://localhost:5000/movies/${id}`, { method: "DELETE" })  //to handle delete & pass it as prop to movielist
+    fetch(`https://json-server-movie-review-app.onrender.com/${id}`, { method: "DELETE" })  //to handle delete & pass it as prop to movielist
     .then(
       (response) => {
         if (response.data) {

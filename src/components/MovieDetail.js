@@ -6,7 +6,7 @@ const MovieDetail = () => {
   const { id } = useParams();
 
   useEffect(() => {
-    fetch(`http://localhost:5000/movies/${id}`)
+    fetch(`https://json-server-movie-review-app.onrender.com/${id}`)
       .then(response => response.json())
       .then(data => setMovie(data));
   }, [id]);
