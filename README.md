@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# MOVIE REVIEW APP.
+## Description.
+This is a movie review app that allows users to view the top rating movies, The app also lets one add a new movie to the list of existing ones to help push it to other consumers. it's built using JavaScript, CSS and React js.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## by JOHN- GAITHO.
+ 
+<img src="">
 
-## Available Scripts
+## Requirements
 
-In the project directory, you can run:
+ - A computer, tablet or phone
+ - Access to the internet
+ - View Live Site
+ - Ensure that your device of choice has a browser installed. Click the link provided below to view the site.
 
-### `npm start`
+https://john-gaitho.github.io//
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Using the App
+ The user can navigate easily through the app and be able to:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ - View a list of well detailed movies.
+ - Add a new movie that they see fit for the list. 
+ - Delete a movie from the list at will.
+ - 
+### RUN LOCALLY
+  Setup/Installation Requirements
+To run this app locally, you need a PC with the following:
 
-### `npm test`
+Access to the internet
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation Process
+Clone this repository using
 
-### `npm run build`
+'git@github.com:John-Gaitho/movie-review-app.git'
+ 
+or by downloading a ZIP file of the code.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The repository, if downloaded as a .zip file will need to be extracted to your preferred location and opened
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Open the index.html file in your preferred browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used:
+   * React.js
+   * CSS
+   * JavaScript
+   * Node.js
 
-### `npm run eject`
+Support and Contact Details
+Incase of any query, need for collaboration or issues with this code, feel free to reach me at jgaitho@gmail.com
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+License
+MIT License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Copyright © 2022 John-Gaitho
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
