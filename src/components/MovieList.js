@@ -1,10 +1,10 @@
 import React from "react";
 
-function MovieList({ movies }) {
+function MovieList({ movies, deleteMovie }) {    // props
   return (
-    <div className="movie-list-container">
+    <div>
       <h1>DISCOVER THE  BEST MOVIES OF ALL TIMES</h1>
-      {movies.length === 0 ? (
+      {movies.length === 0 ? (   // to check if no movies found and return a message
         <p>No movies found!</p>
       ) : (
         <ul>
@@ -26,6 +26,8 @@ function MovieList({ movies }) {
               <p>
                 <strong>Release Year:</strong> {movie.releaseYear}
               </p>
+              <button onClick={() => deleteMovie(movie.id)}>Delete</button> {/* Delete Button */}
+
             </li>
           ))}
         </ul>

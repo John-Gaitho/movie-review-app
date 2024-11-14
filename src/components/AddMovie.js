@@ -5,10 +5,11 @@ import React, { useState } from "react";
 function AddMovie({ addMovie }) {
   const [title, setTitle] = useState("");
   const [description, setDescription] = useState("");
+  const [image, setImage] = useState(""); 
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const newMovie = { title, description };
+    const newMovie = { title, description, image };
 
     const configObject = {
       method: "POST",
@@ -20,8 +21,9 @@ function AddMovie({ addMovie }) {
       .then((response) => response.json())
       .then((data) => {
         addMovie(data); // to Update the list with the new movie data from the server
-        setTitle(""); // Clear the form after submission
+        setTitle(""); 
         setDescription("");
+        setImage(""); // to clear the image after submission
       });
   };
 
@@ -38,7 +40,12 @@ function AddMovie({ addMovie }) {
         value={description}
         onChange={(e) => setDescription(e.target.value)}
       />
-      <button type="submit">Add Movie</button>
+      <input
+        type="URL"
+        placeholder="Movie  image..."
+        onChange={ (e) => setImage (e.target.value)}
+      />
+      <button type="submit">ADD MOVIE </button>
     </form>
   );
 }

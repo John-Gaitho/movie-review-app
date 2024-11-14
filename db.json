@@ -72,9 +72,7 @@
       "rating": 8.7,
       "image": "https://i5.walmartimages.com/seo/The-Matrix-Movie-Poster-Print-27-x-40_21181e98-0e8b-4a35-ae96-56afce44184b.695da7d08fc53559d9c2d39d50c27db8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
     },
-    
     {
-
       "id": "9",
       "title": "Fight Club",
       "description": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much, much more.",
@@ -93,14 +91,10 @@
       "image": "https://i1.sndcdn.com/artworks-acCLWBhtRFQMu0no-fCstyQ-t500x500.jpg"
     },
     {
-      "id": "077e",
-      "title": "Ramboo 2",
-      "description": "A thrilling story of courage and survival.",
-      "genre": "Action",
-      "releaseYear": 1985,
-      "rating": 7.1,
-      "image": "https://example.com/images/ramboo_2.jpg"
+      "id": "0e52",
+      "title": "boss baby",
+      "description": "fun movie",
+      "image": "https://www.ezyprintstudio.com/cdn/shop/collections/theme_logos_1.jpg?crop=center&height=1200&v=1661069368&width=1200"
     }
-    
   ]
 }
