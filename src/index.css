@@ -1,19 +1,31 @@
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
 
+nav ul li {
+  display: inline;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 h1 {
   text-align: center;
   font-size: 2rem;
   margin-bottom: 20px;
-  color: rgb(63, 78, 47);
 }
 
 ul {
   list-style-type: none;
   padding: 0;
-  color: rgb(2, 20, 20);
 }
 
 li {
-  background-color: #fcf3f3;
+  background-color: #f4f4f4;
   padding: 15px;
   margin-bottom: 10px;
   border-radius: 8px;
@@ -22,12 +34,13 @@ li {
 h2 {
   margin: 0;
   font-size: 1.5rem;
-  color: #5c3939;
+  color: #333;
 }
 
 p {
   margin: 5px 0;
 }
 
-
-
+strong {
+  color: #444;
+}

@@ -19,6 +19,15 @@
       "image": "https://img.freepik.com/free-vector/movie-poster-template-design_742173-20776.jpg?t=st=1731518443~exp=1731522043~hmac=c6446dd96e8a66164059da367f5eb26b61d51061646c80c070ae08c921a77e88&w=740"
     },
     {
+      "id": "2",
+      "title": "Nexus",
+      "description": "The story of an organized crime dynasty's aging patriarch who transfers control of his clandestine empire to his reluctant son.",
+      "genre": "Crime, Drama",
+      "releaseYear": 2024,
+      "rating": 9.2,
+      "image": "https://img.freepik.com/free-vector/movie-poster-template-design_742173-20647.jpg?t=st=1731578988~exp=1731582588~hmac=c40ebb109b4b5b3424efc0bab42b4c59cd30239690f517d8e6457dd2153f9bdd&w=740"
+    },
+    {
       "id": "7",
       "title": "Pulp Fiction",
       "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
@@ -26,16 +35,6 @@
       "releaseYear": 1994,
       "rating": 8.9,
       "image": "https://img.freepik.com/free-psd/movie-template-design_23-2151270423.jpg?t=st=1731513329~exp=1731516929~hmac=f8d5c45f6a6ecc5153e366c4998d312dbff009096ec0b78575e93afaa06d1c3a&w=740"
-    },
-    
-    {
-      "id": "2",
-      "title": "Boxing Ring",
-      "description": "The story of an organized crime dynasty's aging patriarch who transfers control of his clandestine empire to his reluctant son.",
-      "genre": "Crime, Drama",
-      "releaseYear": 2024,
-      "rating": 9.2,
-      "image": "https://img.freepik.com/free-psd/boxing-ad-poster-template_23-2148652581.jpg?t=st=1731517950~exp=1731521550~hmac=b58f8a77393426b67afee218183def67ef16da7ea0d6b7a50a2d9eaf64c45f2f&w=740"
     },
     {
       "id": "3",
@@ -53,7 +52,7 @@
       "genre": "Drama, Romance",
       "releaseYear": 1994,
       "rating": 8.8,
-      "image": "https://resizing.flixster.com/hqcqFfWf1syt2OrGlbW7LDvfj9Y=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15829_v_v13_aa.jpg"
+      "image": "https://img.freepik.com/free-vector/movie-poster-template-design_742173-20510.jpg?t=st=1731579158~exp=1731582758~hmac=070a4e271eb93ac3511dd834f3d0ce75e6f819182daca68537cd82ad221a6ecb&w=740"
     },
     {
       "id": "5",
@@ -71,7 +70,7 @@
       "genre": "Action, Sci-Fi",
       "releaseYear": 1999,
       "rating": 8.7,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2HvYGhDPzaJI0SQAo2yUWS_KVvPBCNQCZOQ0dokZVvuhkSg6HBXAQocu66eseaGt9rw&usqp=CAU"
+      "image": "https://i5.walmartimages.com/seo/The-Matrix-Movie-Poster-Print-27-x-40_21181e98-0e8b-4a35-ae96-56afce44184b.695da7d08fc53559d9c2d39d50c27db8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
     },
     
     {
@@ -82,7 +81,7 @@
       "genre": "Drama",
       "releaseYear": 1999,
       "rating": 8.8,
-      "image": "https://example.com/images/fight_club.jpg"
+      "image": "https://img.freepik.com/free-vector/duotone-simple-suspense-thriller-movie-poster-template_742173-16967.jpg?t=st=1731579793~exp=1731583393~hmac=a9a05bb1b693359bd7fb37f760dad8c2ec3d7a7726f4f953a7d40e51abe4c245&w=740"
     },
     {
       "id": "10",
@@ -91,7 +90,7 @@
       "genre": "Adventure, Drama, Sci-Fi",
       "releaseYear": 2014,
       "rating": 8.6,
-      "image": "https://example.com/images/interstellar.jpg"
+      "image": "https://i1.sndcdn.com/artworks-acCLWBhtRFQMu0no-fCstyQ-t500x500.jpg"
     },
     {
       "id": "077e",
