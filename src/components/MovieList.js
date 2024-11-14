@@ -27,7 +27,6 @@ function MovieList({ movies, deleteMovie }) {    // props
                 <strong>Release Year:</strong> {movie.releaseYear}
               </p>
               <button onClick={() => deleteMovie(movie.id)}>Delete</button> {/* Delete Button */}
-
             </li>
           ))}
         </ul>

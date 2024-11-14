@@ -17,13 +17,13 @@ function AddMovie({ addMovie }) {
       body: JSON.stringify(newMovie),
     };
 
-    fetch("http://localhost:5000/movies", configObject) // to config and send newmovie data to servor
+    fetch("http://localhost:5000/movies", configObject) // to config and send newmovie data to server
       .then((response) => response.json())
       .then((data) => {
         addMovie(data); // to Update the list with the new movie data from the server
         setTitle(""); 
         setDescription("");
-        setImage(""); // to clear the image after submission
+        setImage("");   // to clear the image after submission
       });
   };
 

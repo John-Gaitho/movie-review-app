@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 
-const Navigation = () => {
+const Navigation = () => { // top bar link navigation
   return (
     <div>
       <ul>

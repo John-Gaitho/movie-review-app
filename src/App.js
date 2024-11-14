@@ -36,7 +36,7 @@ function App() {
     .then(
       (response) => {
         if (response.data) {
-          setMovies(movies.filter((movie) => movie.id !== id));
+          setMovies(movies.filter((movie) => movie.id !== id));   // filter by id
         }
       }
     );
