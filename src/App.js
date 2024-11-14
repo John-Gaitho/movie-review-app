@@ -12,7 +12,7 @@ function App() {
   const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
-    fetch("https://json-server-movie-review-app.onrender.com")
+    fetch("https://json-server-movie-review-app.onrender.com/movies")
       .then((response) => response.json())
       .then((data) => setMovies(data));
   }, []); // squire blackets to run only one time when mounted
@@ -32,10 +32,10 @@ function App() {
   );
 
   const deleteMovie = (id) => {
-    fetch(`https://json-server-movie-review-app.onrender.com/${id}`, { method: "DELETE" })  //to handle delete & pass it as prop to movielist
+    fetch(`https://json-server-movie-review-app.onrender.com/movies/${id}`, { method: "DELETE" })  //to handle delete & pass it as prop to movielist
     .then(
       (response) => {
-        if (response.data) {
+        if (response.ok) {    // a boolean property to check if request is a succes
           setMovies(movies.filter((movie) => movie.id !== id));   // filter by id
         }
       }
