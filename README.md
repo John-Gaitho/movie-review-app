@@ -47,32 +47,27 @@ The live site allows you to:
 ### Installation Process
  1 Clone this repository using:
 ```
-{'cd react-blog' 
-}
+git@github.com:John-Gaitho/movie-review-app.git
 ```
-
-
 or by downloading a ZIP file of the code.
 
 2 Navigate to the project directory:
 ```
-{cd react-blog
-}
+cd movie-review-app
+
 ```
-
-
 
 3 Install the required dependencies:
 
 ```
-{npm install 
-}
+npm install 
+
 ```
 
 4 Run the development server:
 ```
-{npm run dev 
-}
+npm run dev 
+
 ```
 
 
