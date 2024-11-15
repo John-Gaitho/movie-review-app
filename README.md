@@ -46,19 +46,22 @@ Terminal/Command Line
 
 ### Installation Process
  1 Clone this repository using:
-[title](git clone git@github.com:John-Gaitho/movie-rewiew-app.git)
+[title](https://movie-review-app-green.vercel.app/)
 git clone git@github.com:John-Gaitho/movie-rewiew-app.git
 or by downloading a ZIP file of the code.
 
 2 Navigate to the project directory:
 
 'cd react-blog'
+
 3 Install the required dependencies:
 
 'npm install'
+
 4 Run the development server:
 
 'npm run dev'
+
 5 Open your browser and visit http://localhost:5000
 
 
