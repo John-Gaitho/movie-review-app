@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# MOVIE REVIEW APP
+## Description.
+This is a movie review app that allows users to view the top rating movies and help them make informed decisions before watching a particular movie, The app also lets one add a new movie to the list of existing ones to help push it to other consumers. it's built using JavaScript, CSS and React js.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### by JOHN- GAITHO.
+ 
+<img src="https://www.sourcecodester.com/sites/default/files/images/razormist/Movie%20Searcher%20App%20in%20JavaScript.png">
 
-## Available Scripts
+## Requirements
 
-In the project directory, you can run:
+ - A computer, tablet or phone
+ - Access to the internet
+ - View Live Site
+ - Ensure that your device of choice has a browser installed. Click the link provided below to view the deployed application.
 
-### `npm start`
+https://movie-review-app-green.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Using the App
+ The user can navigate easily through the app and be able to:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ - View a list of well detailed movies.
+ - Add a new movie that they see fit for the list. 
+ - Delete a movie from the list at will.
+ - Browse through the list of movies list on the home page.
+ - scroll to any movie post and see it's full description.
+ - Click on the *Add New Movie page* to add more movies to the list.
 
-### `npm test`
+### If you want to run the project locally, you'll need:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1 Node.js installed on your computer.
+2 Basic understanding of React JS.
+3 Code editor (VS Code recommended).
+4 Terminal/Command Line.
 
-### `npm run build`
+### Installation Process
+ 1 Clone this repository using:
+```
+git@github.com:John-Gaitho/movie-review-app.git
+```
+or by downloading a ZIP file of the code.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2 Navigate to the project directory:
+```
+cd movie-review-app
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3 Install the required dependencies:
 
-### `npm run eject`
+```
+npm install 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4 Run the development server:
+```
+npm run dev 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+5 Open your browser and visit http://localhost:5000
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Related Repositories
+1 Deployed Backend API:https://json-server-movie-review-app.onrender.com
 
-### Code Splitting
+2 Repository: movie-review API Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3 Deployed Front end: https://movie-review-app-green.vercel.app/
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Technologies Used:
+   * React.js
+   * CSS
+   * JavaScript
+   * Node.js
 
-### Making a Progressive Web App
+Support and Contact Details
+Incase of any query, need for collaboration or issues with this code, feel free to reach me at jgaitho@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+License
+MIT License
 
-### Advanced Configuration
+Copyright © 2022 John-Gaitho
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-### Deployment
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
