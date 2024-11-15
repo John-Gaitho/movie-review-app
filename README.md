@@ -56,11 +56,11 @@ or by downloading a ZIP file of the code.
 
 3 Install the required dependencies:
 
-'npm install'
+*npm install*
 
 4 Run the development server:
 
-'npm run dev'
+(``` npm run dev)
 
 5 Open your browser and visit http://localhost:5000
 
