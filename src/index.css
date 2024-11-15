@@ -1,3 +1,9 @@
+nav {
+  background-color: #faf4f4;
+  color: white;
+  padding: 10px;
+}
+
 nav ul {
   list-style: none;
   display: flex;
@@ -18,24 +24,18 @@ h1 {
   font-size: 2rem;
   margin-bottom: 20px;
 }
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
 li {
   background-color: #f4f4f4;
   padding: 15px;
   margin-bottom: 10px;
-  border-radius: 8px;
-
+  border-radius: 10px;
+  color: #e42222;
 }
 
-h2 {
-  margin: 0;
-  font-size: 1.5rem;
-  color: #614545;
+ul {
+  padding: 0;
+  justify-content: center;
+  border-radius: 8px;
 }
 
 p {
@@ -45,3 +45,4 @@ p {
 strong {
   color: #444;
 }
+

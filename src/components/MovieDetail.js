@@ -11,13 +11,16 @@ const MovieDetail = () => {
       .then(data => setMovie(data));
   }, [id]);
 
-  if (!movie) return <div>Loading...</div>;//conditional rendering 
+  if (!movie) return <div>Loading...</div>;  //conditional rendering to check if movies found
 
 
   return (
     <div>
     <h2>{movie.title}</h2>
-    <p>Details about {movie.title}</p>
+    <p>{movie.description}</p>
+    <p>{movie.genre}</p>
+    <p>{movie.rating}</p>
+    <p>{movie.releaseYear}</p>
   </div>
   )
 }

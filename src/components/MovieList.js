@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 
 function MovieList({ movies, deleteMovie }) {    // props
   return (
@@ -26,7 +28,8 @@ function MovieList({ movies, deleteMovie }) {    // props
               <p>
                 <strong>Release Year:</strong> {movie.releaseYear}
               </p>
-              <button onClick={() => deleteMovie(movie.id)}>Delete</button> {/* Delete Button */}
+              <button onClick={() => deleteMovie(movie.id)}>Delete</button>
+              <Link to={`/movie/${movie.id}`}> DETAILS</Link> 
             </li>
           ))}
         </ul>

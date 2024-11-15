@@ -42,6 +42,7 @@ function App() {
     );
   };
 
+
   return (    // navigation route paths
     <Router>
       <div>
@@ -50,7 +51,7 @@ function App() {
         <Routes> 
           <Route path="/" element={<MovieList movies={filteredMovies} deleteMovie={deleteMovie} />} />      
           <Route path="/add" element={<AddMovie addMovie={addMovie} />} />
-          <Route path="/" element={<MovieDetail />} />
+          <Route path="/movie/:id" element={<MovieDetail />} />
         </Routes>
       </div>
     </Router>
