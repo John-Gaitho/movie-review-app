@@ -1,6 +1,6 @@
 # MOVIE REVIEW APP.
 ## Description.
-This is a movie review app that allows users to view the top rating movies, The app also lets one add a new movie to the list of existing ones to help push it to other consumers. it's built using JavaScript, CSS and React js.
+This is a movie review app that allows users to view the top rating movies and help them make informed decisions before watching a particular movie, The app also lets one add a new movie to the list of existing ones to help push it to other consumers. it's built using JavaScript, CSS and React js.
 
 ### by JOHN- GAITHO.
  
@@ -46,21 +46,35 @@ The live site allows you to:
 
 ### Installation Process
  1 Clone this repository using:
+```
+{'cd react-blog' 
+}
+```
 
 
 or by downloading a ZIP file of the code.
 
 2 Navigate to the project directory:
+```
+{cd react-blog
+}
+```
 
-'cd react-blog'
+
 
 3 Install the required dependencies:
 
-*npm install*
+```
+{npm install 
+}
+```
 
 4 Run the development server:
+```
+{npm run dev 
+}
+```
 
-```npm run dev 
 
 5 Open your browser and visit http://localhost:5000
 
