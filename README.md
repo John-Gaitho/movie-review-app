@@ -29,7 +29,7 @@ To run this app locally, you need a PC with the following:
 Access to the internet
 
 View Live Site
-Visit the deployed application at: React Blog App
+Visit the deployed application at: https://movie-review-app-green.vercel.app/
 
 The live site allows you to:
 
@@ -39,14 +39,14 @@ The live site allows you to:
 
 ### If you want to run the project locally, you'll need:
 
-Node.js installed on your computer
-Basic understanding of React JS
-Code editor (VS Code recommended)
-Terminal/Command Line
+1 Node.js installed on your computer.
+2 Basic understanding of React JS.
+3 Code editor (VS Code recommended).
+4 Terminal/Command Line.
 
 ### Installation Process
  1 Clone this repository using:
-[git clone ](https://movie-review-app-green.vercel.app/)
+
 
 or by downloading a ZIP file of the code.
 
@@ -60,7 +60,7 @@ or by downloading a ZIP file of the code.
 
 4 Run the development server:
 
-(``` npm run dev)
+```npm run dev 
 
 5 Open your browser and visit http://localhost:5000
 
@@ -68,8 +68,8 @@ or by downloading a ZIP file of the code.
 Related Repositories
 Backend API
 Repository: Blog API Repository
-Deployed API: Live API URL
-Support and Contact Details
+Deployed API: https://movie-review-app-green.vercel.app/
+
 
 ## Technologies Used:
    * React.js
