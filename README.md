@@ -2,7 +2,7 @@
 ## Description.
 This is a movie review app that allows users to view the top rating movies, The app also lets one add a new movie to the list of existing ones to help push it to other consumers. it's built using JavaScript, CSS and React js.
 
-## by JOHN- GAITHO.
+### by JOHN- GAITHO.
  
 <img src="">
 
@@ -21,23 +21,52 @@ https://john-gaitho.github.io//
  - View a list of well detailed movies.
  - Add a new movie that they see fit for the list. 
  - Delete a movie from the list at will.
- - 
+    
 ### RUN LOCALLY
   Setup/Installation Requirements
 To run this app locally, you need a PC with the following:
 
 Access to the internet
 
-## Installation Process
-Clone this repository using
+View Live Site
+Visit the deployed application at: React Blog App
 
-'git@github.com:John-Gaitho/movie-review-app.git'
- 
+The live site allows you to:
+
+- Browse through the list of movies list on the home page.
+- scroll to any movie post and see it's full description.
+- Navigate to the Add New Movie page to add more movies on the list.
+
+### If you want to run the project locally, you'll need:
+
+Node.js installed on your computer
+Basic understanding of React JS
+Code editor (VS Code recommended)
+Terminal/Command Line
+
+### Installation Process
+ 1 Clone this repository using:
+
+git clone git@github.com:John-Gaitho/movie-rewiew-app.git
 or by downloading a ZIP file of the code.
 
-The repository, if downloaded as a .zip file will need to be extracted to your preferred location and opened
+2 Navigate to the project directory:
 
-Open the index.html file in your preferred browser.
+cd react-blog
+3 Install the required dependencies:
+
+npm install
+4 Run the development server:
+
+npm run dev
+5 Open your browser and visit http://localhost:5000
+
+
+Related Repositories
+Backend API
+Repository: Blog API Repository
+Deployed API: Live API URL
+Support and Contact Details
 
 ## Technologies Used:
    * React.js
