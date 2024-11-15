@@ -62,10 +62,10 @@ npm run dev
 5 Open your browser and visit http://localhost:5000
 
 
-Related Repositories
-Backend API
-Repository: Blog API Repository
-Deployed API: https://movie-review-app-green.vercel.app/
+## Related Repositories
+1 Deployed Backend API:https://json-server-movie-review-app.onrender.com
+2 Repository: movie-review API Repository
+3 Deployed Front end: https://movie-review-app-green.vercel.app/
 
 
 ## Technologies Used:
