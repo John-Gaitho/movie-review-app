@@ -13,7 +13,7 @@ This is a movie review app that allows users to view the top rating movies, The 
  - View Live Site
  - Ensure that your device of choice has a browser installed. Click the link provided below to view the site.
 
-https://john-gaitho.github.io//
+https://movie-review-app-green.vercel.app/
 
 ## Using the App
  The user can navigate easily through the app and be able to:
@@ -46,8 +46,8 @@ Terminal/Command Line
 
 ### Installation Process
  1 Clone this repository using:
-[title](https://movie-review-app-green.vercel.app/)
-git clone git@github.com:John-Gaitho/movie-rewiew-app.git
+[git clone ](https://movie-review-app-green.vercel.app/)
+
 or by downloading a ZIP file of the code.
 
 2 Navigate to the project directory:
