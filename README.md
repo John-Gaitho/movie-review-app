@@ -11,7 +11,7 @@ This is a movie review app that allows users to view the top rating movies and h
  - A computer, tablet or phone
  - Access to the internet
  - View Live Site
- - Ensure that your device of choice has a browser installed. Click the link provided below to view the site.
+ - Ensure that your device of choice has a browser installed. Click the link provided below to view the deployed application.
 
 https://movie-review-app-green.vercel.app/
 
@@ -21,21 +21,9 @@ https://movie-review-app-green.vercel.app/
  - View a list of well detailed movies.
  - Add a new movie that they see fit for the list. 
  - Delete a movie from the list at will.
-    
-### RUN LOCALLY
-  Setup/Installation Requirements
-To run this app locally, you need a PC with the following:
-
-Access to the internet
-
-View Live Site
-Visit the deployed application at: https://movie-review-app-green.vercel.app/
-
-The live site allows you to:
-
-- Browse through the list of movies list on the home page.
-- scroll to any movie post and see it's full description.
-- Navigate to the Add New Movie page to add more movies on the list.
+ - Browse through the list of movies list on the home page.
+ - scroll to any movie post and see it's full description.
+ - Click on the *Add New Movie page* to add more movies to the list.
 
 ### If you want to run the project locally, you'll need:
 
