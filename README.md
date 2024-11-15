@@ -64,7 +64,9 @@ npm run dev
 
 ## Related Repositories
 1 Deployed Backend API:https://json-server-movie-review-app.onrender.com
+
 2 Repository: movie-review API Repository
+
 3 Deployed Front end: https://movie-review-app-green.vercel.app/
 
 
