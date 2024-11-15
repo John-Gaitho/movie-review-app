@@ -4,7 +4,7 @@ This is a movie review app that allows users to view the top rating movies, The 
 
 ### by JOHN- GAITHO.
  
-<img src="">
+<img src="https://www.sourcecodester.com/sites/default/files/images/razormist/Movie%20Searcher%20App%20in%20JavaScript.png">
 
 ## Requirements
 
