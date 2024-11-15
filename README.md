@@ -1,4 +1,4 @@
-# MOVIE REVIEW APP.
+# MOVIE REVIEW APP
 ## Description.
 This is a movie review app that allows users to view the top rating movies and help them make informed decisions before watching a particular movie, The app also lets one add a new movie to the list of existing ones to help push it to other consumers. it's built using JavaScript, CSS and React js.
 
