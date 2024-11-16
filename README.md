@@ -4,7 +4,7 @@ This is a movie review app that allows users to view the top rating movies and h
 
 ### by JOHN- GAITHO.
  
-<img src="https://www.sourcecodester.com/sites/default/files/images/razormist/Movie%20Searcher%20App%20in%20JavaScript.png">
+<img src="https://www.lifewire.com/thmb/XxkcaAAQbjC6MSNOgJEbgkMXe_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crackle-roku-free-movies-1adbfc7becf44d4fb421d69a928b630b.jpg">
 
 ## Requirements
 
